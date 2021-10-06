@@ -1,0 +1,4 @@
+Link Download do git
+Git -> https://git-scm.com/downloads
+
+O Git bash é um terminal extendido para utilizar o Git
